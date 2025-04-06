@@ -3,6 +3,7 @@
 ## Core React Concepts (Advanced Level)
 
 ### 1. Component Architecture
+
 - Class Components vs Functional Components
   - Lifecycle methods in depth (getDerivedStateFromProps, shouldComponentUpdate, etc.)
   - Understanding when to use class components in modern React
@@ -18,6 +19,7 @@
   - Rules of Hooks and their internal implementation
 
 ### 2. State Management
+
 - React Context API
   - Context composition
   - Performance optimization with context splitting
@@ -34,6 +36,7 @@
   - When to use each solution
 
 ### 3. Performance Optimization
+
 - React Fiber Architecture
   - Understanding the virtual DOM and reconciliation
   - Time slicing and concurrent mode
@@ -48,6 +51,7 @@
   - Performance profiling tools
 
 ### 4. Advanced Patterns
+
 - Compound Components
   - Implementation and use cases
   - State sharing between compound components
@@ -61,6 +65,7 @@
 ## System Design & Architecture
 
 ### 1. Application Architecture
+
 - Micro-frontend Architecture
   - Module federation
   - Shared dependencies management
@@ -71,6 +76,7 @@
   - CI/CD considerations
 
 ### 2. Testing Strategies
+
 - Unit Testing
   - Jest and React Testing Library best practices
   - Mock patterns and testing async code
@@ -84,6 +90,7 @@
   - Testing strategies for complex user flows
 
 ### 3. Build & Deployment
+
 - Webpack Configuration
   - Custom loaders and plugins
   - Code splitting strategies
@@ -96,6 +103,7 @@
 ## Common Interview Questions & Scenarios
 
 ### 1. Technical Deep Dives
+
 - Explain React's reconciliation algorithm
 - How would you optimize a slow rendering component?
 - Implement a debounced search with proper cleanup
@@ -103,18 +111,21 @@
 - Implement an infinite scroll with virtualization
 
 ### 2. Architecture Questions
+
 - How would you structure a large-scale React application?
 - When would you choose micro-frontends over a monolithic approach?
 - Design a state management solution for a complex application
 - How would you handle authentication in a micro-frontend architecture?
 
 ### 3. Problem-Solving Scenarios
+
 - How would you debug a memory leak in a React application?
 - Design a real-time collaborative editor
 - Implement a drag-and-drop interface with complex validation
 - Build a performant autocomplete component
 
 ## Latest React Features (2024)
+
 - React Server Components
   - Understanding client vs server components
   - Data fetching patterns
@@ -125,6 +136,7 @@
   - Suspense data fetching
 
 ## Best Practices & Standards
+
 - Code Style and Organization
   - File structure patterns
   - Component composition
@@ -141,6 +153,7 @@
 ## System Design Exercise Template
 
 When asked to design a system, follow this structure:
+
 1. Requirements Clarification
    - Functional requirements
    - Non-functional requirements
@@ -159,9 +172,13 @@ When asked to design a system, follow this structure:
    - Maintenance considerations
 
 ## Interview Tips
+
 - Have real-world examples ready for each concept
 - Prepare to explain technical decisions and trade-offs
 - Be ready to discuss migration strategies and legacy code handling
 - Focus on scalability and maintenance in your answers
 - Be prepared to write code on a whiteboard or in a code editor
 - Practice system design by breaking down popular applications
+
+06-04-2025
+worked on the react flow state
